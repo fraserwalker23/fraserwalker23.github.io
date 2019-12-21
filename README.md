@@ -1,2 +1,2 @@
 # fraserwalker23.github.io
-personal website
+personal/resume website
