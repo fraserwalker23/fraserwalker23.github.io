@@ -1,0 +1,33 @@
+/* Styling for my resume site 
+you know the fucking vibes
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+ul {
+    list-style-type: none; /* removes bullets */
+    margin: 0;
+    padding: 0;
+    width: 500px; /* TODO: should be width of Nav bar */
+    background-color: #f1f1f1; 
+  }
+
+li a { /* Style the links inside the list elements */
+    display: block; 
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+  }
